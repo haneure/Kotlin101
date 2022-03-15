@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChuckNorrisAPI</string>
+    <string name="mainTitle">Chuck Norris V2</string>
+</resources>

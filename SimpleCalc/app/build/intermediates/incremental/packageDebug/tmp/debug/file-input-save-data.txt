@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Feb 24 12:01:07 ICT 2022
+0.base=D\:\\Android\\vidio.com\\Training\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
